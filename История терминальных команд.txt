@@ -1,1 +1,58 @@
- 
+(1)
+- Создаём два текстовых файла:
+asha@sasha-VirtualBox:~$ cat >  Pets.txt
+Fido Dog
+Whiskers Cat
+Hammy Hamster
+Buddy Dog
+Smudge Cat
+Peanut Hamster
+Bella Dog
+Oliver Cat
+
+sasha@sasha-VirtualBox:~$ cat > PackAnimals.txt
+Thunder Horse
+Sandy Camel
+Eeyore Djnkey
+Storm Horse
+Dune Camel
+Burro Donkey
+Blaze Horse
+Sahara Camel
+
+- Объединяем два созданные файла в один:
+sasha@sasha-VirtualBox:~$ cat Pets.txt PackAnimals.txt >>  file3.txt
+
+- Выводим содержимое созданного файла:
+sasha@sasha-VirtualBox:~$ cat file3.txt
+Fido Dog
+Whiskers Cat
+Hammy Hamster
+Buddy Dog
+Smudge Cat
+Peanut Hamster
+Bella Dog
+Oliver Cat
+Thunder Horse
+Sandy Camel
+Eeyore Djnkey
+Storm Horse
+Dune Camel
+Burro Donkey
+Blaze Horse
+Sahara Camel
+
+- Переименовываем созданный файл:
+sasha@sasha-VirtualBox:~$ mv file3.txt HumanFriends.txt
+
+(2)
+- создаём новую директорию:
+sasha@sasha-VirtualBox:~$ mkdir newdir
+
+- Перемещаем файл "manFriends.txt" в созданную директорию:
+sasha@sasha-VirtualBox:~$ mv HumanFriends.txt newdir
+
+(3)
+- Устанавливаем MySQL:
+sasha@sasha-VirtualBox:~$ sudo apt update
+sasha@sasha-VirtualBox:~$ sudo apt install mysql-server mysql-client
