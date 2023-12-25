@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\bin\Debug\net6.0\Pitomnik.exe
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\bin\Debug\net6.0\Pitomnik.deps.json
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\bin\Debug\net6.0\Pitomnik.runtimeconfig.json
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\bin\Debug\net6.0\Pitomnik.dll
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\bin\Debug\net6.0\Pitomnik.pdb
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.AssemblyInfo.cs
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.dll
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\refint\Pitomnik.dll
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.pdb
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\Pitomnik.genruntimeconfig.cache
+C:\Users\sasha\Desktop\Итоговая работа\Final_work\Животные\Pitomnik\Pitomnik\obj\Debug\net6.0\ref\Pitomnik.dll
